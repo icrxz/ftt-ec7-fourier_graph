@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df75cf4d-11fb-43b1-92e2-945c1d584c8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z8bvdJraQCgfXMovz2bRmkSd4J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.part1">
+    <configuration name="part1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="N1_1Bim_Comunicacao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <module name="N1_1Bim_Comunicacao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\Faculdade\Comunicacao de dados\N1_1Bim_Comunicacao\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="G:\Faculdade\Comunicacao de dados\N1_1Bim_Comunicacao\part1.py" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.part1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.part1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df75cf4d-11fb-43b1-92e2-945c1d584c8f" name="Default Changelist" comment="" />
+      <created>1584223899714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584223899714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Python" timestamp="1584234544935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Python/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584234544935" />
+    <state x="414" y="174" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584224513674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584224513674" />
+    <state x="740" y="282" key="FileChooserDialogImpl" timestamp="1584224809291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="282" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584224809291" />
+    <state width="1899" height="268" key="GridCell.Tab.0.bottom" timestamp="1584240845386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584240845386" />
+    <state width="1259" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1584239000938" />
+    <state width="1899" height="268" key="GridCell.Tab.0.center" timestamp="1584240845386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584240845386" />
+    <state width="1259" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1584239000938" />
+    <state width="1899" height="268" key="GridCell.Tab.0.left" timestamp="1584240845386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584240845386" />
+    <state width="1259" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1584239000938" />
+    <state width="1899" height="268" key="GridCell.Tab.0.right" timestamp="1584240845386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584240845386" />
+    <state width="1259" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1584239000938" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584224337381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584224337381" />
+    <state x="2256" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1584237209444">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2256" y="315" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1584237209444" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584234553401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584234553401" />
+    <state x="701" y="163" key="refactoring.ChangeSignatureDialog" timestamp="1584235087422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="163" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584235087422" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1584224800149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1584224800149" />
+  </component>
+</project>
